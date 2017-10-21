@@ -21,3 +21,45 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+
+.pb-5, .py-5 {
+    padding-bottom: 0rem!important;
+}
+
+/* Global Values */
+
+.right{
+	text-align: right;
+	
+}
+
+.more{
+	text-align: right;
+	cursor: pointer;
+}
+
+.desc {
+	
+}
+
+.desc p {
+	
+}
+
+.desc t {
+	color: #34495e;
+	font-weight: 700;
+}
+
+.desc imp {
+	padding: 6px;
+	color: white;
+	background: #34495e;
+}
+
+.desc more {
+	color: #080808;
+}
+
+
