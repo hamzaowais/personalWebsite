@@ -24,7 +24,12 @@ body {
 
 
 .pb-5, .py-5 {
-    padding-bottom: 0rem!important;
+    
+    padding-top: 4rem!important;
+
+}
+.justify{
+	text-align: justify;
 }
 
 /* Global Values */
